@@ -1,3 +1,6 @@
+/**
+ * Home Page - Build Timestamp: 2026-04-08-v2
+ */
 import { useAuth } from "@/_core/hooks/useAuth";
 import { Link } from "wouter";
 import { motion } from "framer-motion";
