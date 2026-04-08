@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.local
+dist
+.manus-logs
+*.log
+.DS_Store
+v2_reference
+supabase/.env.local
+supabase/.env

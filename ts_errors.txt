@@ -1,0 +1,4 @@
+
+> breath-scan-pal@1.0.0 check /home/ubuntu/breath-scan-pal
+> tsc --noEmit
+
