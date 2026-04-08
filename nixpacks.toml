@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["...", "libatomic"]
+
+[phases.build]
+cmds = ["pnpm install && pnpm run build"]

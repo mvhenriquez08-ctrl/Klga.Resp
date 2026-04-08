@@ -172,7 +172,7 @@ const plugins = [
     },
     workbox: {
       globPatterns: ["**/*.{js,css,html,ico,png,svg,gif,jpg}"],
-      maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+      maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
       runtimeCaching: [
         {
           urlPattern: /^https:\/\/d2xsxph8kpxj0f\.cloudfront\.net\/.*/i,
